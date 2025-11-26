@@ -1,2 +1,6 @@
 vantagens 1: melhor controlo de versao - sabe-se em que versao se esta trabalhar no codigo.
 		  2: o trabalho fica sempre guardado e podemos sempre ir para versoes anteriores
+
+
+C) staged/modified/commited
+
