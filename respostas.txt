@@ -4,3 +4,5 @@ vantagens 1: melhor controlo de versao - sabe-se em que versao se esta trabalhar
 
 C) staged/modified/commited
 
+Resposta exercício H:
+"git status"
