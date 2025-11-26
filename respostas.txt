@@ -6,3 +6,6 @@ C) staged/modified/commited
 
 Resposta exercício H:
 "git status"
+
+Resposta exercício J:
+o comando "git log --follow meu_script.py" lista o histórico de um arquivo além das renomeações.
